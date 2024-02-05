@@ -1,0 +1,8 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+ZCZC W00  90 L73 Playing some games
+ZCZC W00  60 L02 Synchronous SP session
+ZCZC W00  60 L04 Github Pages related
+ZCZC W00  20 L10 Doing reading assignment
