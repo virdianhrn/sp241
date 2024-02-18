@@ -8,3 +8,7 @@ ZCZC W00 60 L04 Github Pages related
 ZCZC W00 20 L10 Doing reading assignment
 ZCZC W00 90 L10 Finishing assignment #00
 ZCZC W00 60 L80 Watching some streams
+ZCZC W01 60 L73 Playing some games
+ZCZC W01 20 L04 Github Pages related
+ZCZC W01 120 L80 Watching some livestreams
+ZCZC W01 320 L10 Finishing assignment #01
