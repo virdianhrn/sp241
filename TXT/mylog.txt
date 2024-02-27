@@ -8,7 +8,15 @@ ZCZC W00 60 L04 Github Pages related
 ZCZC W00 20 L10 Doing reading assignment
 ZCZC W00 90 L10 Finishing assignment #00
 ZCZC W00 60 L80 Watching some streams
+
 ZCZC W01 60 L73 Playing some games
 ZCZC W01 20 L04 Github Pages related
 ZCZC W01 120 L80 Watching some livestreams
 ZCZC W01 320 L10 Finishing assignment #01
+
+ZCZC W02 135 L02 Synchronous SP session
+ZCZC W02 120 L73 Playing some games
+ZCZC W02 100 L10 Finishing assignment #02
+ZCZC W02 90 L80 Watching some streams
+ZCZC W02 10 L01 SCELE/Discord related
+ZCZC W02 5 L09 Updating mylog.txt
