@@ -36,3 +36,12 @@ ZCZC W04 120 L81 Listening to main music playlist
 ZCZC W04 120 L80 Watching some streams
 ZCZC W04 60 L01 SCELE/Discord related
 ZCZC W04 5 L41 Updating mylog.txt
+
+ZCZC W05 240 L71 Working on personal project
+ZCZC W05 120 L73 Playing some games
+ZCZC W05 125 L02 Synchronous SP session
+ZCZC W05 10 L10 Doing reading assignment
+ZCZC W05 90 L81 Listening to main music playlist
+ZCZC W05 120 L80 Watching some streams
+ZCZC W05 60 L01 SCELE/Discord related
+ZCZC W05 5 L41 Updating mylog.txt
