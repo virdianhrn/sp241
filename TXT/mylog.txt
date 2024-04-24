@@ -54,3 +54,11 @@ ZCZC W06 10 L10 Doing reading assignment
 ZCZC W06 90 L80 Watching some streams
 ZCZC W06 50 L01 SCELE/Discord related
 ZCZC W06 5 L41 Updating mylog.txt
+
+ZCZC W07 100 L71 Working on personal project
+ZCZC W07 130 L73 Playing some games
+ZCZC W07 10 L10 Doing reading assignment
+ZCZC W07 90 L80 Watching some streams
+ZCZC W07 70 L81 Listening to main music playlist
+ZCZC W07 60 L01 SCELE/Discord related
+ZCZC W07 5 L41 Updating mylog.txt
