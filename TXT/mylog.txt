@@ -70,3 +70,10 @@ ZCZC W08 90 L80 Watching some streams
 ZCZC W08 70 L81 Listening to main music playlist
 ZCZC W08 60 L01 SCELE/Discord related
 ZCZC W08 5 L41 Updating mylog.txt
+
+ZCZC W09 120 L71 Working on personal project
+ZCZC W09 100 L73 Playing some games
+ZCZC W09 110 L80 Watching some streams
+ZCZC W09 70 L81 Listening to main music playlist
+ZCZC W09 60 L01 SCELE/Discord related
+ZCZC W09 5 L41 Updating mylog.txt
